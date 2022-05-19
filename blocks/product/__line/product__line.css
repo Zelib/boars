@@ -1,0 +1,9 @@
+.product__line {
+  width: 2200px;
+  height: 350px;
+  background-color: brown;
+  display: flex;
+  position: relative;
+  left: 0;
+  transition: all ease .7s;
+}

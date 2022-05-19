@@ -1,0 +1,4 @@
+.product__media {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,5 @@
+.intro__grid {
+    display: grid;
+    grid-template-columns: 330px 180px;
+    margin: 20px auto 20px;
+}
