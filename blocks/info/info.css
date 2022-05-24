@@ -1,3 +1,23 @@
 .info {
-  margin: 90px;
+  height: 500px;
+  margin: 80px;
+}
+
+.info__glass {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(3px); 
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, .37);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.info__description {
+  padding: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
 }

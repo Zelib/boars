@@ -1,6 +1,12 @@
 .header__link {
-  font-size: 25px;
+  font-size: 30px;
+  font-family: 'South';
   font-weight: 400;
   color: white;
   text-decoration: none;
+  padding: 10px;
+}
+.header__link:hover {
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.3);
 }

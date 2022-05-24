@@ -1,0 +1,14 @@
+.header__parallax {
+  margin: 0;
+  padding: 0;
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  background-image: url(/images/1000_d_850.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+

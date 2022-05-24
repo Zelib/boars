@@ -1,0 +1,12 @@
+.parallax {
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-image: url(/images/nature-3294681_1280\ \(1\).jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}

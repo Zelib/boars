@@ -1,7 +1,8 @@
 .info__grid {
-    margin: auto;
-    display: grid;
-    grid-template-columns: 525px 525px;
-    grid-template-rows: 170px 200px;
-    grid-gap: 15px;
+  display: grid;
+  grid-template-columns: 700px 700px;
+  grid-template-rows: 200px 200px;
+  justify-content: space-around;
+  gap: 20px;
+  align-items: space-around;
 }
